@@ -1,0 +1,20 @@
+c:\users\zunayed hassan\documents\visual studio 2010\Projects\Talk It\Talk It\bin\Release\Talk It.exe
+c:\users\zunayed hassan\documents\visual studio 2010\Projects\Talk It\Talk It\bin\Release\Talk It.pdb
+c:\users\zunayed hassan\documents\visual studio 2010\Projects\Talk It\Talk It\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\zunayed hassan\documents\visual studio 2010\Projects\Talk It\Talk It\obj\x86\Release\Talk_It.Properties.Resources.resources
+c:\users\zunayed hassan\documents\visual studio 2010\Projects\Talk It\Talk It\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\zunayed hassan\documents\visual studio 2010\Projects\Talk It\Talk It\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\zunayed hassan\documents\visual studio 2010\Projects\Talk It\Talk It\obj\x86\Release\Talk It.exe
+c:\users\zunayed hassan\documents\visual studio 2010\Projects\Talk It\Talk It\obj\x86\Release\Talk It.pdb
+C:\Users\Zunayed Hassan\Desktop\Talk It\Talk It\obj\x86\Release\Talk It.exe
+C:\Users\Zunayed Hassan\Desktop\Talk It\Talk It\obj\x86\Release\Talk It.pdb
+C:\Users\Zunayed Hassan\Desktop\Talk It\Talk It\bin\Release\Talk It.exe
+C:\Users\Zunayed Hassan\Desktop\Talk It\Talk It\bin\Release\Talk It.pdb
+C:\Users\Zunayed Hassan\Desktop\Talk It\Talk It\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Zunayed Hassan\Desktop\Talk It\Talk It\obj\x86\Release\Talk_It.Properties.Resources.resources
+C:\Users\Zunayed Hassan\Desktop\Talk It\Talk It\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Zunayed Hassan\Desktop\Talk It\Talk It\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Zunayed Hassan\Desktop\Talk It\Talk It\bin\Release\Talk It.exe.manifest
+C:\Users\Zunayed Hassan\Desktop\Talk It\Talk It\bin\Release\Talk It.application
+C:\Users\Zunayed Hassan\Desktop\Talk It\Talk It\obj\x86\Release\Talk It.exe.manifest
+C:\Users\Zunayed Hassan\Desktop\Talk It\Talk It\obj\x86\Release\Talk It.application

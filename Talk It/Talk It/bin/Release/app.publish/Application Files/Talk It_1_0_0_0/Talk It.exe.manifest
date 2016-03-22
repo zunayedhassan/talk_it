@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="Talk It.exe" version="1.0.0.0" publicKeyToken="74c28c4fd6b2d6ca" language="en-US" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="Resources\118219-matte-blue-and-white-square-icon-symbols-shapes-comment-bubble.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Talk It" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Talk It.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Talk It.exe" size="47104">
+      <assemblyIdentity name="Talk It" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>NtO1N3ToBhpB/gNfiquBim81Goo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Readme.txt" size="194">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>8vmCEPJmfu6UoQNPvYbzIe34nyU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\118219-matte-blue-and-white-square-icon-symbols-shapes-comment-bubble.ico" size="15086">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>MqLHdk52nePaI4lXQLeNjBnqBgA=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ZunayedHassan\Zunayed Hassan" issuerKeyHash="c457d30880a18973e5fda6e26bfabdea0e4528a6" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>m18SoMfv9/rRxnXeJqBaEq1MLnc=</DigestValue></Reference></SignedInfo><SignatureValue>k05212SWfCPIThb+RzX1oV9gCEbTuHsdm6mR7W+O+K9MCyHaoVk5VbfZlfP8qorjWr56NNBKAPzir2hE78VfWjMSX67xgK0hks3d9sRTmoCuMqdkQqWHMpXvL4H8o8darlVCEcGxoS6cRAKQn3FRAygNz/pZ5JWqKJswKpWSkaA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>7plovc1Rb5pYSaM9ad3hLtG9LQIPd+KtEzWlljMVklkQ7JOT3N5HaWJff6ohAziE/iQEA8i0GUGwuxIcHq+scTBizW8hrilW+AWPUX8ql0HzLbXaXX3LqEJG8/4lfVA3xSh2vjuV3SA6ubDx+ny9zVXZG5qyevttWhcCqSQ6OwM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="772e4cad125aa026de75c6d1faf7efc7a0125f9b" Description="" Url=""><as:assemblyIdentity name="Talk It.exe" version="1.0.0.0" publicKeyToken="74c28c4fd6b2d6ca" language="en-US" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ZunayedHassan\Zunayed Hassan</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Ysft5PjXSg8dacVoO9bQ/vK0a3w=</DigestValue></Reference></SignedInfo><SignatureValue>HpG9KUZmyXQFIXP+72q4xK8Ls4wV8V+Q6ehk2EUM69OdL6lnJl5iJ6nAaHURrZWxEYES3/XI55wJA8PxMoCaHcvIK+Nb2Je7H5CoCkbfYorEnHTiuHZ0yiIEl0nVFX/1DPOXw6a+xaNs7dGHgkNmty+ImK83D8E8Ul+tSojr8pA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>7plovc1Rb5pYSaM9ad3hLtG9LQIPd+KtEzWlljMVklkQ7JOT3N5HaWJff6ohAziE/iQEA8i0GUGwuxIcHq+scTBizW8hrilW+AWPUX8ql0HzLbXaXX3LqEJG8/4lfVA3xSh2vjuV3SA6ubDx+ny9zVXZG5qyevttWhcCqSQ6OwM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICCTCCAXKgAwIBAgIQZWJ73OTDPoBJ7LeSkCxUtDANBgkqhkiG9w0BAQUFADBDMUEwPwYDVQQDHjgAWgB1AG4AYQB5AGUAZABIAGEAcwBzAGEAbgBcAFoAdQBuAGEAeQBlAGQAIABIAGEAcwBzAGEAbjAeFw0xMTA2MjMxNDU0NTlaFw0xMjA2MjIyMDU0NTlaMEMxQTA/BgNVBAMeOABaAHUAbgBhAHkAZQBkAEgAYQBzAHMAYQBuAFwAWgB1AG4AYQB5AGUAZAAgAEgAYQBzAHMAYQBuMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDumWi9zVFvmlhJoz1p3eEu0b0tAg934q0TNaWWMxWSWRDsk5Pc3kdpYl9/qiEDOIT+JAQDyLQZQbC7Ehwer6xxMGLNbyGuKVb4BY9RfyqXQfMttdpdfcuoQkbz/iV9UDfFKHa+O5XdIDq5sPH6fL3NVdkbmrJ6+21aFwKpJDo7AwIDAQABMA0GCSqGSIb3DQEBBQUAA4GBANHf3rgiZP884CqVIj2picf9KWVfPd2kH9YB9m4Mv0GOhRl2ZjwnSUL6iAwXkvOV/00qVbhYtYuawix/fMlSoIHfxU6ZyjWSOKdzmKiup3MOEB3tHW17a179HX6qFrmMiFcU1HiRWE4k2SS0XriRNwfMQpfERkmNlJcyWteEUTVg</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

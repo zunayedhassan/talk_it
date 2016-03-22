@@ -1,0 +1,172 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="38F1FE29-75A2-4E0F-9AF8-A994383BD2EF/f:Program.cs" caret="0" fromTop="0" />
+      <File id="38F1FE29-75A2-4E0F-9AF8-A994383BD2EF/f:TalkItForm.cs" caret="282" fromTop="2" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="38F1FE29-75A2-4E0F-9AF8-A994383BD2EF/f:TalkItForm.cs" caret="1543" fromTop="7" />
+      <File id="38F1FE29-75A2-4E0F-9AF8-A994383BD2EF/f:TalkItForm.cs" caret="624" fromTop="6" />
+      <File id="38F1FE29-75A2-4E0F-9AF8-A994383BD2EF/f:TalkItForm.cs" caret="3631" fromTop="13" />
+      <File id="38F1FE29-75A2-4E0F-9AF8-A994383BD2EF/f:TalkItForm.cs" caret="1026" fromTop="8" />
+      <File id="38F1FE29-75A2-4E0F-9AF8-A994383BD2EF/f:TalkItForm.cs" caret="2072" fromTop="7" />
+      <File id="38F1FE29-75A2-4E0F-9AF8-A994383BD2EF/f:TalkItForm.cs" caret="1692" fromTop="15" />
+      <File id="38F1FE29-75A2-4E0F-9AF8-A994383BD2EF/f:TalkItForm.cs" caret="3608" fromTop="16" />
+      <File id="38F1FE29-75A2-4E0F-9AF8-A994383BD2EF/f:TalkItForm.cs" caret="3130" fromTop="10" />
+      <File id="38F1FE29-75A2-4E0F-9AF8-A994383BD2EF/f:TalkItForm.cs" caret="80" fromTop="0" />
+      <File id="38F1FE29-75A2-4E0F-9AF8-A994383BD2EF/f:TalkItForm.cs" caret="294" fromTop="5" />
+      <File id="38F1FE29-75A2-4E0F-9AF8-A994383BD2EF/f:TalkItForm.cs" caret="1415" fromTop="13" />
+      <File id="38F1FE29-75A2-4E0F-9AF8-A994383BD2EF/f:TalkItForm.cs" caret="2800" fromTop="11" />
+      <File id="38F1FE29-75A2-4E0F-9AF8-A994383BD2EF/f:TalkItForm.cs" caret="2895" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="0" />
+      <Item value="SpeechLib" priority="0" />
+      <Item value="this" priority="5" />
+      <Item value="new" priority="12" />
+      <Item value="Size" priority="2" />
+      <Item value="FormStartPosition`0" priority="0" />
+      <Item value="Panel`0" priority="0" />
+      <Item value="Panel" priority="0" />
+      <Item value="panel" priority="4" />
+      <Item value="Fill" priority="0" />
+      <Item value="private" priority="2" />
+      <Item value="TextBox`0" priority="0" />
+      <Item value="Button`0" priority="0" />
+      <Item value="talkItTextBox" priority="17" />
+      <Item value="TextBox" priority="0" />
+      <Item value="true" priority="3" />
+      <Item value="Point" priority="2" />
+      <Item value="Font" priority="2" />
+      <Item value="Center" priority="0" />
+      <Item value="Horizontal" priority="0" />
+      <Item value="talkItButton" priority="8" />
+      <Item value="Button" priority="0" />
+      <Item value="Left" priority="1" />
+      <Item value="Anchor" priority="1" />
+      <Item value="AnchorStyles`0" priority="2" />
+      <Item value="Image`0" priority="0" />
+      <Item value="Properties" priority="1" />
+      <Item value="Resources`0" priority="1" />
+      <Item value="ImageBeforeText" priority="0" />
+      <Item value="FontStyle`0" priority="0" />
+      <Item value="Color`0" priority="0" />
+      <Item value="Bold" priority="1" />
+      <Item value="void" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="EventArgs`0" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="String`0" priority="0" />
+      <Item value="MessageBox`0" priority="0" />
+      <Item value="OK" priority="0" />
+      <Item value="Error" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="Label`0" priority="0" />
+      <Item value="Label" priority="0" />
+      <Item value="aboutLabel" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Talk_It.TalkItForm">
+      <Item value="Text" priority="0" />
+      <Item value="Size" priority="0" />
+      <Item value="Location" priority="0" />
+      <Item value="StartPosition" priority="0" />
+      <Item value="Controls" priority="0" />
+      <Item value="Font" priority="0" />
+      <Item value="Icon" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.FormStartPosition">
+      <Item value="CenterScreen" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Panel">
+      <Item value="Dock" priority="0" />
+      <Item value="Controls" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="Add`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Site" priority="0" />
+      <Item value="Multiline" priority="0" />
+      <Item value="Location" priority="0" />
+      <Item value="TextAlign" priority="0" />
+      <Item value="ScrollBars" priority="0" />
+      <Item value="WordWrap" priority="0" />
+      <Item value="Anchor" priority="0" />
+      <Item value="Text" priority="1" />
+      <Item value="Select`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.ScrollBars">
+      <Item value="Both" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Location" priority="1" />
+      <Item value="Text" priority="0" />
+      <Item value="Size" priority="0" />
+      <Item value="Anchor" priority="0" />
+      <Item value="Image" priority="0" />
+      <Item value="TextImageRelation" priority="0" />
+      <Item value="AutoSize" priority="0" />
+      <Item value="AutoEllipsis" priority="0" />
+      <Item value="Focus`0" priority="0" />
+      <Item value="ForeColor" priority="0" />
+      <Item value="Click" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.AnchorStyles">
+      <Item value="Top" priority="0" />
+      <Item value="Right" priority="1" />
+      <Item value="Bottom" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Talk_It.Properties.Resources">
+      <Item value="_117791_matte_blue_and_white_square_icon_people_things_speech" priority="0" />
+      <Item value="_118219_matte_blue_and_white_square_icon_symbols_shapes_comment_bubble" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.TextImageRelation">
+      <Item value="ImageAboveText" priority="0" />
+      <Item value="ImageBeforeText" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.FontStyle">
+      <Item value="Bold" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="DarkGray" priority="0" />
+      <Item value="SteelBlue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Trim`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpeechLib.SpVoice">
+      <Item value="Speak`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="0" />
+      <Item value="Font" priority="0" />
+      <Item value="Location" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
